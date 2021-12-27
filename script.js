@@ -9,3 +9,5 @@ alert(typeof cat);
 
 alert(typeof(cat) );
 
+console.log(cat);
+
